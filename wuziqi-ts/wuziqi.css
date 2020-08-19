@@ -1,0 +1,36 @@
+#box{
+    position: relative;
+    width: 540px;
+    height: 540px;
+    margin: auto;
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    
+
+}
+.qige{
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.qizi{
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 50%;
+    position: absolute; 
+}
+.btn{
+    margin: auto;
+    width: 100px;
+}
+.btnhui,
+.btnche,
+.btncz{
+    margin: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
